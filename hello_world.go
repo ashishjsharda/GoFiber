@@ -1,0 +1,5 @@
+package FiberGo
+
+func main() {
+
+}
